@@ -46,3 +46,4 @@ Integration support and partnership inquiries -
 
 Contact us at [info@iat4d.com](mailto:info@iat4d.com) or visit [https://iat4d.com](https://iat4d.com)
 
+[![Community Blog](sap-logo.jpg "Community Blog")](https://community.sap.com/t5/technology-blog-posts-by-members/bridging-the-physical-digital-divide-proof-of-presence-for-sap-eam-tm-and/ba-p/14369702)
